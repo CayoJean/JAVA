@@ -6,7 +6,7 @@ public class GestionCuentas {
 
     public static void main(String[] args) {
         // Crear una instancia de CuentaBancaria con un saldo inicial
-        CuentaBancaria cuenta = new CuentaBancaria(1000.0);
+        CuentaBancaria cuenta = new CuentaBancaria(5000.0);
 
         // Usar Scanner para leer la entrada del usuario
         Scanner scanner = new Scanner(System.in);
